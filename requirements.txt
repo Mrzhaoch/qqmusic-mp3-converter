@@ -1,0 +1,2 @@
+# 运行依赖（tkinter 为 Python 标准库自带，无需安装）
+frida>=17.0.0

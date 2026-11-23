@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller 打包产物
+build/
+dist/
+build_test/
+dist_test/
+*.spec.bak
+
+# 大文件与二进制（ffmpeg、打包程序、压缩包不进仓库）
+bin/
+_internal/
+*.zip
+
+# IDE / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
