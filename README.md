@@ -57,11 +57,21 @@ qqmusic-mp3-converter/
 - 已安装并登录、保持运行的 QQ音乐客户端
 - ffmpeg（打包版已内置；源码运行需自行安装或放到 `bin/ffmpeg.exe`）
 
+## 🔗 仓库地址与下载
+
+- **GitHub 主仓库**：https://github.com/Mrzhaoch/qqmusic-mp3-converter
+- **Gitee 国内镜像（代码备份）**：https://gitee.com/zhao_cheng_wow/qqmusic-mp3-converter
+- **exe 打包程序下载**：统一在 GitHub Releases 发布，地址：
+  https://github.com/Mrzhaoch/qqmusic-mp3-converter/releases
+
+> 打包压缩包约 **108MB**，超过 Gitee 普通仓库单附件 100MB 的上限，因此 Gitee 仅存放源码与文档，exe 只在 GitHub Releases 提供下载。
+
 ## 🚀 快速开始
 
 ### 方式一：直接使用打包好的 exe（推荐普通用户）
 
-1. 到本仓库的 **Releases** 下载 `QQ音乐转MP3工具.zip`。
+1. 到 GitHub Releases 下载 `QQ音乐转MP3工具.zip`（约 108MB）：
+   https://github.com/Mrzhaoch/qqmusic-mp3-converter/releases
 2. 完整解压整个文件夹（不要只拖出 exe）。
 3. 先打开 QQ音乐并登录、保持运行。
 4. 双击 `QQMusicConverter.exe`，选择歌曲文件夹和输出文件夹，点击“开始转换”。
